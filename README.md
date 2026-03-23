@@ -1,5 +1,5 @@
 # Title
-  BME 450 Final Project- EKG Classification
+  BME 450 Final Project- MRI Brain Tumor Classification
 ## Team members
   Brinna Porat (Brin63), Deniz Eksioglu (deksioglu)
 ### Project Description
